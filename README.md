@@ -1,4 +1,4 @@
-## Hi there, I'm <span style='color: #1d7ae2'>Moaz El-Essawey</span> 👋
+<b style='font-size: 24px'>Hi there, I'm <span style='color: #1d7ae2'>Moaz Mohammed El-Essawey</span></b> 👋
 
 <span style="font-size: 18px;">Data Analysis Professional in Python & R.</span>
 
