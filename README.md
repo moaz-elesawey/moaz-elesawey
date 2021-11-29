@@ -1,4 +1,4 @@
-<h5 style='font-size: 34px'>Hi there, I'm <span style='color: #1d7ae2'>Moaz Mohammed El-Essawey</span></h5> 👋
+## Hi there, I'm <span style='color: #1d7ae2'>Moaz Mohammed El-Essawey</span> 👋
 
 <span style="font-size: 18px;">Data Analysis Professional in Python & R.</span>
 
